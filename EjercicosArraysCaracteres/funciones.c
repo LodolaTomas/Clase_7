@@ -29,6 +29,7 @@ void unirApellidoNombre(char* nombre,char* apellido,char* apellidoNombre)
 
 
     strlwr(apellidoNombre);
+
     apellidoNombre[0]=toupper(apellidoNombre[0]);
 
     len=strlen(apellidoNombre);
@@ -40,4 +41,6 @@ void unirApellidoNombre(char* nombre,char* apellido,char* apellidoNombre)
             apellidoNombre[i+1]=toupper(apellidoNombre[i+1]);
         }
     }
+
+
 }

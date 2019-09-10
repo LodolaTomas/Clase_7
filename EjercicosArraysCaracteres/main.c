@@ -10,8 +10,8 @@ int main()
     char apellido[15];// 14 digitos \0
     char apellidoNombre[31];// 28 digitos + ", "+ el \0
 
-    pedirString("Ingrese su Nombre:",nombre,14);
-    pedirString("Ingrese su Apellido:",apellido,14);
+    pedirString("ingrese su Nombre:",nombre,14);
+    pedirString("ingrese su Apellido:",apellido,14);
 
     unirApellidoNombre(nombre,apellido,apellidoNombre);
 
