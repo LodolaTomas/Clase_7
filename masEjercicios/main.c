@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-#define T 3
 #include <string.h>
+#define T 3
+
 
 int main()
 {
