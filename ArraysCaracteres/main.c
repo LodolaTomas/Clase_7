@@ -76,7 +76,7 @@ int main()
 //  strlwr(palabra);//PASA TODO A minuscula
 
 
-
+    strcat(palabra,otrapalabra);//saca el \0 y concatena a otra variable
 
     printf("%s",palabra);
 

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1568124201 source:c:\users\alumno\desktop\clase_7\clase_7\ejercicosarrayscaracteres\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1568123908 c:\users\alumno\desktop\clase_7\clase_7\ejercicosarrayscaracteres\funciones.h
+
+1568125802 source:c:\users\alumno\desktop\clase_7\clase_7\ejercicosarrayscaracteres\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
